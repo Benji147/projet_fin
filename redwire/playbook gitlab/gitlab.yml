@@ -1,0 +1,6 @@
+- hosts: gitlab
+  become: true
+  become_user: root
+  roles:
+    - docker
+    - gitlab

@@ -1,0 +1,6 @@
+- hosts: nexus
+  become: true
+  become_user: root
+  roles:
+    - docker
+    - nexus
