@@ -1,9 +1,5 @@
 # teamrocket
 
-Rendez vous tous ou ce sera la guerre !
-LA GUERRE MIAOUSS LA GUERRE ! (wilfried, février 2020)
-
-
 
 MODE D'EMPLOI
 
